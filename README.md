@@ -1,3 +1,4 @@
+# Forked to [here](../../../../Couple-quest/Couple-quest/tree/python)
 # Couple-quest <img src="https://github.com/Clonewayx/Couple-quest/blob/master/slice/hra.png" align="right">
 Simple "board-like" game for couples.
 
