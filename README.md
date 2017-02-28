@@ -1,3 +1,4 @@
+# Moved to organization [here](../../../../Couple-quest/Couple-quest)
 # Couple-quest <img src="hra.png" align="right">
 >### [Latest release](https://github.com/Clonewayx/Couple-quest/releases/latest)
 
